@@ -26,6 +26,7 @@
     ViewController * destinationViewController =[segue destinationViewController];
     
     [destinationViewController setValue:@"911" forKey:@"number"];
+
     
 //        BViewController *bController=[segue destinationViewController];
 //       bController.number=@188;

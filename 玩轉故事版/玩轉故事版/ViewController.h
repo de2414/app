@@ -10,9 +10,6 @@
 
 @interface ViewController : UIViewController
 
-@property (nonatomic, readonly) NSString *identifier;
-@property (nonatomic, readonly) id sourceViewController;
-@property (nonatomic, readonly) id destinationViewController;
 
 @end
 

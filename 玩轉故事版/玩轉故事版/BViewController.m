@@ -23,6 +23,7 @@
     NSLog(@"%@",_number);
     
     [_btnOnB setTitle:[NSString stringWithFormat:@"收到來自A的值:%@",_number] forState:UIControlStateNormal];
+
 }
 
 - (void)didReceiveMemoryWarning {
